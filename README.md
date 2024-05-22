@@ -1,3 +1,4 @@
+#minseok916
 <h1 align="center">Hi 👋, I'm Minseok Kim</h1>
 <h3 align="center">It 개발 지망생</h3>
 
